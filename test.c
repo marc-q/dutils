@@ -1,4 +1,22 @@
-/* Copyright 2015 Marc Volker Dickmann */
+/*
+ * test.c
+ * This file is part of DUtils
+ *
+ * Copyright (C) 2015 - Marc Volker Dickmann
+ *
+ * DUtils is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ * DUtils is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with DUtils. If not, see <http://www.gnu.org/licenses/>.
+ */
 /* Tests the dutils library. */
 #include <stdio.h>
 #include "dutils.h"
@@ -18,7 +36,7 @@ int main (int argc, char* argv[])
 	
 
 	/* Test End */
-	printf ("This is the end!\n");
+	printf ("Tests complete! Now bust the bugs!\n");
 
 	return 0;
 }
