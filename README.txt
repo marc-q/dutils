@@ -6,4 +6,4 @@ Some of my dev utils can be found here.
 ---------------------------
 
 * BASH COLORS - Definitions for the Bash color/formation codes *
-
+* BITS - Some macros for working with bits *
