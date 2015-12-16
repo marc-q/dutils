@@ -37,7 +37,6 @@ int main (int argc, char* argv[])
 
 	printf ("\nTest successful when the Words have their color!\n\n");
 	
-
 	/* Test End */
 	printf ("Tests complete! Now bust the bugs!\n");
 
