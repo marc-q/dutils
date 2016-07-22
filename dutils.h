@@ -100,8 +100,13 @@
 #define BITGET(a,b) (((a) >> (b)) & 1)
 
 /* BOOL */
+#ifndef FALSE
 #define FALSE 0
+#endif /*FALSE */
+
+#ifndef TRUE
 #define TRUE 1
+#endif /* TRUE */
 
 /* CHARTOINT */
 
