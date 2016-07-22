@@ -102,7 +102,7 @@
 /* BOOL */
 #ifndef FALSE
 #define FALSE 0
-#endif /*FALSE */
+#endif /* FALSE */
 
 #ifndef TRUE
 #define TRUE 1
